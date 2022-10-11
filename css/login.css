@@ -1,0 +1,26 @@
+h2 {
+    background-color: aquamarine;
+    padding: 0px;
+    margin: -10px -50px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+hr{
+    margin: 10 px -50px;
+    border: 0;
+    border-top: 1px slateblue;
+    margin-bottom: 40px;
+}
+div.container {
+    width: 900;
+    height: 610px;
+    margin: 35px auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+div.main{
+    width: 300px;
+    float: left;
+    border-radius: 10px;
+    border: 2px salmon;
+}
